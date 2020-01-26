@@ -1,1 +1,7 @@
-This is an example of how you should store a map with general guidelines.
+Creator: <YOUR NAME>
+
+Overview: <PUT SOMETHING HERE TO EXPLAIN THE MAP>
+
+Notes: <ANY EXTRA IMPORTANT INFORMATION>
+
+
