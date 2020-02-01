@@ -1,6 +1,6 @@
 Creator: Kharnn
 
-Overview: Track v2 is the second track i made it just started as a big jump off top of the BIG n rock landing into a big wall climb circle going down ward then slowly adding additional sections.
+Overview: This is a Race Track for Buggies. Track v2 is the second track i made it just started as a big jump off top of the BIG n rock landing into a big wall climb circle going down ward then slowly adding additional sections.
 
 Its an open world course.
 
